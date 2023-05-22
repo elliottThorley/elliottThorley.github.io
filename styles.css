@@ -5,7 +5,7 @@
 html {
     margin: 0;
     padding: 0;
-    background-image: url("images/stars.png"); /* Set the background image for the entire site */
+    background-image: url("stars.png"); /* Set the background image for the entire site */
     background-size: cover;
     background-position: center;
     scroll-behavior: smooth;
