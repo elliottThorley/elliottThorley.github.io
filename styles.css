@@ -174,7 +174,7 @@ a {
 }
 
 .project-card ul li {
-    font-size: 18px;
+    font-size: 16px;
     margin-bottom: 10px;
     text-align: left; /* Justify the content of list items to the left */
     margin-left: 30%;
@@ -217,17 +217,10 @@ a {
     margin-bottom: 5em;
 }
 
-.contact-card ul {
-    list-style: none;
-    padding: 0;
-}
-
-.contact-card ul li {
-    font-size: 16px;
-}
-
 .contact-card ul li {
     color: white;
+    margin-bottom: 10px;
+    text-align: left; /* Justify the content of list items to the left */
 }
 .column-container {
     display: flex;
@@ -239,4 +232,6 @@ a {
     min-width: 50%;
     flex-basis: 50%; /* Adjust the width of the columns as needed */
     margin-bottom: 30px;
+}
+.contact-content {
 }
